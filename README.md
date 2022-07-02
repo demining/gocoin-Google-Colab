@@ -110,3 +110,10 @@ for possible ways of contacting me.
 
 If you want to support this project, I ask you to run your own Gocoin node, prefably with TCP port 8333
 open for the outside world. Do not hestiate to report any issues you find.
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
